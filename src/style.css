@@ -1,0 +1,35 @@
+
+.poorna{
+   width: 70%;
+   padding-left: 40px;
+   
+   
+}
+.side{
+   width: 100%;
+   background-color: #f7fffa;
+   padding: 10px;
+   
+   
+}
+.side a{
+   color: black;
+   text-decoration: none;
+}
+.container{
+   display: flex;
+   margin: 2px;
+}
+.side1{
+   /* padding: 10px; */
+   margin: 5px;
+}
+.side1 a{
+   color: black;
+   text-decoration: none;
+}
+.border{
+   margin-left:425px;
+   border: 2px solid black;
+   width: 50%;
+}
